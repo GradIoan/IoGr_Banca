@@ -1,0 +1,9 @@
+c:\users\grad ioan\documents\visual studio 2017\Projects\IoGr_Banca\Banca\bin\Debug\Banca.dll
+c:\users\grad ioan\documents\visual studio 2017\Projects\IoGr_Banca\Banca\bin\Debug\Banca.pdb
+c:\users\grad ioan\documents\visual studio 2017\Projects\IoGr_Banca\Banca\obj\Debug\Banca.dll
+c:\users\grad ioan\documents\visual studio 2017\Projects\IoGr_Banca\Banca\obj\Debug\Banca.pdb
+C:\Users\Grad Ioan\Desktop\IoGr_Banca\Banca\obj\Debug\Banca.csprojResolveAssemblyReference.cache
+C:\Users\Grad Ioan\Desktop\IoGr_Banca\Banca\obj\Debug\Banca.dll
+C:\Users\Grad Ioan\Desktop\IoGr_Banca\Banca\obj\Debug\Banca.pdb
+C:\Users\Grad Ioan\Desktop\IoGr_Banca\Banca\bin\Debug\Banca.dll
+C:\Users\Grad Ioan\Desktop\IoGr_Banca\Banca\bin\Debug\Banca.pdb

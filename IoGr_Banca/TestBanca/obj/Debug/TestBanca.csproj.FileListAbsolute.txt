@@ -1,0 +1,16 @@
+c:\users\grad ioan\documents\visual studio 2017\Projects\IoGr_Banca\TestBanca\obj\Debug\TestBanca.csprojResolveAssemblyReference.cache
+c:\users\grad ioan\documents\visual studio 2017\Projects\IoGr_Banca\TestBanca\bin\Debug\TestBanca.exe.config
+c:\users\grad ioan\documents\visual studio 2017\Projects\IoGr_Banca\TestBanca\bin\Debug\TestBanca.exe
+c:\users\grad ioan\documents\visual studio 2017\Projects\IoGr_Banca\TestBanca\bin\Debug\TestBanca.pdb
+c:\users\grad ioan\documents\visual studio 2017\Projects\IoGr_Banca\TestBanca\bin\Debug\Banca.dll
+c:\users\grad ioan\documents\visual studio 2017\Projects\IoGr_Banca\TestBanca\bin\Debug\Banca.pdb
+c:\users\grad ioan\documents\visual studio 2017\Projects\IoGr_Banca\TestBanca\obj\Debug\TestBanca.exe
+c:\users\grad ioan\documents\visual studio 2017\Projects\IoGr_Banca\TestBanca\obj\Debug\TestBanca.pdb
+C:\Users\Grad Ioan\Desktop\IoGr_Banca\TestBanca\bin\Debug\TestBanca.exe.config
+C:\Users\Grad Ioan\Desktop\IoGr_Banca\TestBanca\bin\Debug\TestBanca.exe
+C:\Users\Grad Ioan\Desktop\IoGr_Banca\TestBanca\bin\Debug\TestBanca.pdb
+C:\Users\Grad Ioan\Desktop\IoGr_Banca\TestBanca\bin\Debug\Banca.dll
+C:\Users\Grad Ioan\Desktop\IoGr_Banca\TestBanca\bin\Debug\Banca.pdb
+C:\Users\Grad Ioan\Desktop\IoGr_Banca\TestBanca\obj\Debug\TestBanca.csprojResolveAssemblyReference.cache
+C:\Users\Grad Ioan\Desktop\IoGr_Banca\TestBanca\obj\Debug\TestBanca.exe
+C:\Users\Grad Ioan\Desktop\IoGr_Banca\TestBanca\obj\Debug\TestBanca.pdb
